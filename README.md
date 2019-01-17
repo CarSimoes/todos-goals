@@ -1,2 +1,2 @@
 # todos-goals
-A simple redux project to handle Todo items.
+A simple project to handle Todo items.
